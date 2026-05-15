@@ -8,7 +8,10 @@
 
 ###
 
-<p align="center">Hey there — I’m Looptrap.<br><br>A developer who willingly walks into infinite loops,because inside each one, there’s a hidden truth……and probably a bug. 🐛<br>I believe every line of code carries meaning. Debugging? That’s just meditation with stack traces.<br>I don’t just write code — I live in it. And yes, I’ve been trapped in my own loops more times than I’d like to admit.<br>Call me a philosophical engineer, a bug whisperer, or just another dev who finds joy in the logic (and chaos) of creation.<br><br>Loop + Trap = Me. Nice to meet you.</p>
+<p align="center">Hey there — I’m Looptrap.<br><br>A developer who willingly walks into infinite loops, because inside each one, there's a hidden truth — and probably a bug. 🐛
+I believe every line of code carries meaning. Debugging? That's just meditation with stack traces.
+I don't just write code — I live in it. And yes, I've been trapped in my own loops more times than I'd like to admit.
+Call me a philosophical engineer, a bug whisperer, or just another dev who finds joy in the logic — and chaos — of creation.<br><br>Loop + Trap = Me. Nice to meet you.</p>
 
 ###
 
